@@ -8,6 +8,8 @@ import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
+import LatestBlogs from "./Blogs";
+
 
 
 export {
@@ -21,6 +23,7 @@ export {
   Contact,
   CanvasLoader,
   EarthCanvas, 
-  ComputersCanvas, 
+  ComputersCanvas,
+  Blogs,
   StarsCanvas
 };
